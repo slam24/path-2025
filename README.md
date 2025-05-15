@@ -1,4 +1,4 @@
-# 📚 Plan de Estudio Avanzado: Laravel, Vue.js, Arquitecturas y DevOps
+# 📚 Advanced Study Plan: Laravel, Vue.js, Architectures & DevOps
 
 ---
 
@@ -8,18 +8,18 @@
 ---
 
 ## PHP
-- [ ] Fundamentos
+- [ ] Fundamentals
 
 ---
 
-## Contenedores y Orquestación
+## Containers & Orchestration
 - [ ] Docker
 
 ---
 
 ## Design Patterns
-- [ ] OOP
-- [ ] Solid
+- [ ] Object-Oriented Programming (OOP)
+- [ ] SOLID Principles
 - [ ] Strategy Pattern
 - [ ] Repository Pattern
 - [ ] Dependency Injection
@@ -39,19 +39,19 @@
 
 ## Unit Testing
 - [ ] PHPUnit
-- [ ] Laravel Dusk (para testing en navegador)
+- [ ] Laravel Dusk (for browser testing)
 - [ ] Pest PHP
 
 ---
 
-## RESTful API development
-- [ ] API versioning
-  - [ ] SemVer
-- [ ] API documentation
+## RESTful API Development
+- [ ] API Versioning
+  - [ ] Semantic Versioning (SemVer)
+- [ ] API Documentation
   - [ ] Scribe
   - [ ] Swagger
   - [ ] OpenAPI
-- [ ] API monitoring
+- [ ] API Monitoring
   - [ ] Laravel Telescope
   - [ ] Sentry
 
@@ -80,52 +80,34 @@
 
 ## Frontend Frameworks
 - [ ] Vue.js
-- [ ] NextJS
+- [ ] Next.js
 
 ---
 
-## DevOps y CI/CD
-- [ ] CI/CD pipelines
-- [ ] Microservices architecture
-- [ ] API security best practices
+## DevOps & CI/CD
+- [ ] CI/CD Pipelines
+- [ ] Microservices Architecture
+- [ ] API Security Best Practices
 - [ ] OAuth2
 - [ ] JWT
-- [ ] Role-based access
+- [ ] Role-Based Access
 
 ---
 
-## Mensajería y Eventos
+## Messaging & Events
 - [ ] RabbitMQ, ZeroMQ, Kafka, etc.
 - [ ] GraphQL
 - [ ] Elasticsearch
 - [ ] Redis
-- [ ] Queues (Kafka) event-driven architectures
+- [ ] Queues (Kafka), Event-Driven Architectures
 - [ ] Pusher
-- [ ] Payment gateways
+- [ ] Payment Gateways
 
 ---
 
-## Infraestructura y Cloud
+## Infrastructure & Cloud
 - [ ] Terraform
 - [ ] Kubernetes
 - [ ] AWS
   - [ ] S3
   - [ ] EC2
-  - [ ] IAC
-  - [ ] Lambda
-  - [ ] RDS
-  - [ ] CDK
-  - [ ] DynamoDB
-
----
-
-## Bases de Datos
-- [ ] PostgreSQL
-- [ ] MySQL
-- [ ] NoSQL
-
----
-
-## Otros conocimientos
-- [ ] Understanding Linux System Administration Basics, basic configuration, and administration
-- [ ] A security mindset, including awareness of OWASP vulnerabilities & best practices
