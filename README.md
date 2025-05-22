@@ -16,10 +16,13 @@
 - [ ] Docker
 
 ---
+## SOLID Principles
 
+## architectural design
+- [ ] MVC
+- [ ] Hexagonal
+      
 ## Design Patterns
-- [ ] Object-Oriented Programming (OOP)
-- [ ] SOLID Principles
 - [ ] Strategy Pattern
 - [ ] Repository Pattern
 - [ ] Dependency Injection
