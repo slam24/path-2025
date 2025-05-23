@@ -23,9 +23,10 @@
 - [ ] Hexagonal
       
 ## Design Patterns
-- [ ] Strategy Pattern
 - [ ] Repository Pattern
-- [ ] Dependency Injection
+- [ ] Service Pattern
+- [ ] Observer Pattern
+- [ ] Dependency Injection (DI)
 
 ---
 
